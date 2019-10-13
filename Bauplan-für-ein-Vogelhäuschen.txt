@@ -1,0 +1,88 @@
+Gründe:
+Wenn Sie ein Vogelhaus Typ Linden bei uns bestellen haben wir aktuell eine Wartezeit von ca. 6 Monate. Das heisst, Sie haben Ihr fertiges Vogelhaus frühestens 6 Monate nach Ihrer Bestellung in den Händen!
+Sie haben etwas geschaffen worauf Sie noch lange lange Stolz sein werden!
+Sie werden immer wieder von Freunden und Bekannten auf dieses Vogelhaus angesprochen werden!
+Selbst ich als absoluter Anti Handwerker habe es geschafft ein schönes Vogelhaus zu bauen. Selbst wenn Sie handwerklich nur minimal begabt sind wie ich, schaffen Sie es mit meiner Anleitung das Vogelhaus selbst zu bauen!
+Es sieht nicht nur gut aus, auch die Vögel werden es lieben! Sie können es sowohl als Dekoration verwenden als auch als Futterhaus.
+Ich weiß, es ist ein bisschen gemein, aber ich wette, Ihre Nachbarn werden neidisch darauf sein! 
+
+def func2(arg28, arg29):
+    var34 = func3(arg29, arg28)
+    var35 = arg28 | arg28
+    var36 = 2123186881 | -919 - arg28 & var35
+    var37 = arg28 - ((var34 + 1758513204) + arg28)
+    var38 = var36 ^ -84 + arg29 - var36
+    if var37 < var38:
+        var39 = arg29 - arg28
+    else:
+        var39 = (var34 & var38 ^ var36) ^ -930
+    var40 = ((arg29 ^ var34) + 152) + var38
+    var41 = var34 ^ (432 & 1552909144)
+    var42 = var35 + arg28
+    var43 = (-771 - var37) + var38
+    var44 = (var43 ^ var41 - var35) ^ -1513480400
+    var45 = (649825129 & var35) - var40 | var44
+    var46 = var40 ^ var35 - var37
+    var47 = arg29 | ((var35 | arg28) | var42)
+    var48 = var35 + (var42 | var42 | var41)
+    var49 = var42 | 1843319747
+    var50 = ((var34 ^ var38) + var43) ^ -261
+    result = var43 - var42 + var48 & (arg29 | var50 - var36)
+    return result
+def func3(arg30, arg31):
+    var32 = 0
+    for var33 in [-1 + 0 - arg30 for i in [arg31 ^ 4 + arg31 for i in ((-5 & arg31) | 6 for i in [(-8 ^ arg30) ^ var32 for i in xrange(36)])]]:
+        var32 += arg31 & (var32 + var33)
+    return var32
+def func1(arg1, arg2):
+    var3 = -377 & (arg2 - arg1)
+    if arg1 < var3:
+        var4 = (arg1 + 1325000602 + var3) - arg2
+    else:
+        var4 = (var3 ^ var3) + 1542648929
+    var5 = (arg2 ^ (arg2 | arg2)) ^ arg1
+    var6 = arg2 - arg1
+    var7 = arg2 - 996766030 | -887 + 803400708
+    var8 = var5 ^ var3
+    var9 = var5 ^ 10098401 + (var6 - 1348902953)
+    var10 = var6 & (1337734071 ^ var6) - 133023967
+    var11 = arg2 - var5 - arg1 + var3
+    var12 = -3 + var5 & var3 | var6
+    if var3 < var7:
+        var13 = (var9 | var6) + var8 | var5
+    else:
+        var13 = 507 | var5
+    var14 = (var12 & arg2) & var9 | var7
+    var15 = var14 & (var11 | var7)
+    var16 = var7 + 1139457421 + var9 + var15
+    var17 = var9 + var5
+    var18 = var9 + var5
+    var19 = ((var15 + var18) + var3) | var12
+    var20 = var9 | (var8 & 813003480 ^ arg1)
+    var21 = var16 | var18 + -2119849442 & var5
+    var22 = var7 | var17
+    var23 = (var7 ^ (var15 + var6)) & 722
+    var24 = var23 + var22
+    var25 = (var16 | (var5 | -534244714)) + var15
+    var26 = (var11 + 2123689118) ^ 997 & var8
+    if var8 < arg2:
+        var27 = var12 | var26
+    else:
+        var27 = var9 & var6 | (var6 ^ arg1)
+    result = var7 ^ ((-1155773098 ^ var10 ^ var3 - (var25 + var21) - var26 ^ var14 | (var10 & (var8 | var3))) | arg2)
+    return result
+if __name__ == "__main__":
+    print 'prog_size: 0'
+    print 'func_number: 2'
+    print 'arg_number: 28'
+    for i in xrange(25000):
+        x = 5
+        x = func1(x, i)
+        print x,
+    print 'prog_size: 5'
+    print 'func_number: 4'
+    print 'arg_number: 51'
+    for i in xrange(25000):
+        x = 5
+        x = func2(x, i)
+        print x,
